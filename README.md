@@ -1,1 +1,1 @@
-(https://szczepanskimichal.github.io/about/)
+(https://szczepanskimichal.github.io/jakiesos/)
