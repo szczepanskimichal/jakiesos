@@ -1,3 +1,31 @@
-.about__text {
-  background-color: blue;
+body {
+  margin: 0;
 }
+@media screen and (max-width: 480px) {
+}
+.container {
+  margin-left: 16px;
+}
+.about__title {
+  text-transform: uppercase;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.2;
+
+  color: #000000;
+}
+.about__wrapper {
+}
+
+/* @media screen and (min-width: 768px) and (max-width: 1199px) {
+  .about__text {
+    color: green;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  padding-top: 26px;
+  padding-bottom: 26px;
+} */
